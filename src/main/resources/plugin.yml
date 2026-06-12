@@ -1,0 +1,8 @@
+name: GeyserCombatLogWorkaround
+version: '${version}'
+
+main: net.kingidk.geyserCombatLogWorkaround.GeyserCombatLogWorkaround
+api-version: '1.21.11'
+load: POSTWORLD
+
+authors: [ Kingidk ]
