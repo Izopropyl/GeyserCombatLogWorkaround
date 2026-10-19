@@ -4,5 +4,6 @@ version: '${version}'
 main: net.kingidk.geyserCombatLogWorkaround.GeyserCombatLogWorkaround
 api-version: '1.21.11'
 load: POSTWORLD
+folia-supported: true
 
 authors: [ Kingidk ]
